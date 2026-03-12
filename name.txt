@@ -1,3 +1,4 @@
 kese challon batoon ek file mein 
 
 server chla ke req kar
+npm start
